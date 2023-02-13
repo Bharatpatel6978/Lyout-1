@@ -31,3 +31,83 @@
     color: blue;
     font-weight: 700;
 }
+#lgrad
+{
+    display:flex;
+    margin-left: 29%;
+    display: flex;
+    margin-top: -43%;
+}
+#grad3
+{
+    background-color: #066298;
+     margin-top: 32%;
+    width: 1229px;
+    position: absolute;
+    margin-left: 5%;
+    font-size: 740%;
+    text-align: -webkit-center;
+    border-top-left-radius: 48px;
+    border-bottom-right-radius: 48px;
+    color: wheat;
+    font-weight: 900;
+    height: 169px;
+}
+#grad4
+{
+    margin-top: 606px;
+    margin-left: 15%;
+    background-color: #08c3f1d9;
+    width: 959px;
+    font-size: 380%;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+    height: 91px;
+   
+
+}
+#about
+{
+    margin-left: 57px;
+    margin-top: -2px;
+    font-size: 15px;
+    color: #0000ff7d;
+    font-weight: 700;
+}
+#us
+{
+    width: 45px;
+    font-size: 32px;
+    font-weight: 800;
+    color: #0000ffb5;
+    margin-top: -24px;
+    margin-left: -1px;
+}
+#para
+{
+    margin-left: 56px;
+    margin-top: -18px;
+    line-height: 15px;
+    font-size: 12px;
+    width: 588px;
+    color: #0000ff7d;
+}
+#l1img2
+{
+    margin-top: -160px;
+    width: 300px;
+    margin-left: 217px;
+    height: 144px;
+    border-top-left-radius: 24px;
+    border-bottom-right-radius: 26px;
+}
+#grad5
+{
+    background-color: #066298;
+    height: 129px;
+    width: 299px;
+    margin-left: 1047px;
+    margin-top: -147px;
+    border-bottom-right-radius: 33px;
+}
