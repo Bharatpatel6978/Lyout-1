@@ -105,9 +105,33 @@
 #grad5
 {
     background-color: #066298;
-    height: 129px;
+    height: 139px;
     width: 299px;
-    margin-left: 1047px;
-    margin-top: -147px;
-    border-bottom-right-radius: 33px;
+    margin-left: 1043px;
+    margin-top: -155px;
+    border-bottom-right-radius: 14px;
+}
+
+#covid
+{
+    text-align: right;
+    margin-top: -16px;
+    font-size: 17px;
+    line-height: 19px;
+    color: #066298;
+}
+#oser
+{
+    background-color: #066298;
+    position: absolute;
+    border-top-left-radius: 26px;
+    color: white;
+    margin-left: 990px;
+    margin-top: -42px;
+    font-size: 27px;
+    height: 44px;
+    padding-left: 161px;
+    padding-top: 5px;
+    width: 379px;
+    
 }
