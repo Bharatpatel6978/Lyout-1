@@ -1,0 +1,37 @@
+#l1img1
+{
+    width: -webkit-fill-available;
+    height: 600px;
+    border-bottom-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+}
+#grad1
+{
+    background-color: rgb(52 209 185);
+    height: 44px;
+    width: 12px;
+    margin-left: 161px;
+    border-top-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+#grad2
+{
+    background-color: rgb(52 209 185);
+    width: 12px;
+    border-top-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+    transform: rotate(90deg);
+    margin-left: -12px;
+}
+#healthy
+{
+    margin-left: 44%;
+    margin-top: -34px;
+    font-size: 16px;
+    color: blue;
+    font-weight: 700;
+}
+#grad3
+{
+    
+}
