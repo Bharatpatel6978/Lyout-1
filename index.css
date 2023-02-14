@@ -49,7 +49,7 @@
     text-align: -webkit-center;
     border-top-left-radius: 48px;
     border-bottom-right-radius: 48px;
-    color: wheat;
+    color:white;
     font-weight: 900;
     height: 169px;
 }
@@ -148,4 +148,14 @@
 {
     height: 54px;
     margin-left: 182px;
+}
+#grad6
+{
+    background-color: #066298;
+    height: 99px;
+    width: 101px;
+    border-bottom-right-radius: 14px;
+    margin-left: 969px;
+    margin-top: -113px;
+    border-top-left-radius: 18px;
 }
